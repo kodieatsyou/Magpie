@@ -1,0 +1,2 @@
+Question 1: Some keywords are: Hello, where, what, how, why, also it responds to curse words and profanity
+Question 2: Hi : Hello, bye : bye, Who are you : I am ..., What? : it will amswer te question etc
